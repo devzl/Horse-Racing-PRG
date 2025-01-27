@@ -1,4 +1,4 @@
-# DO NOT NOT INTERACT WITH THIS CODEBASE
+# DO NOT NOT RUN THIS CODEBASE
 
 This codebase was made by recruiter scammers. and this is a fork to keep a copy of it. The server side will try to steal your data if you run the app.
 
