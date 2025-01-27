@@ -1,3 +1,8 @@
+# DO NOT NOT INTERACT WITH THIS CODEBASE
+
+This codebase was made by recruiter scammers. and this is a fork to keep a copy of it. The server side will try to steal your data if you run the app.
+
+
 # MUNITY Ecosystem
 
 Welcome to the vibrant Munity game ecosystem, where three distinct titles intertwine seamlessly, powered by the $MUNITY token and fueled by your choices! Get ready to explore the interconnected worlds of Stutengarden, MetaHorse Unity, and M-Deeds, each offering unique gameplay and contributing to a rich, shared experience.
